@@ -1,0 +1,21 @@
+.banner{
+    height:400px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+  }
+  .btn{
+    padding: 10px 30px;
+    cursor: pointer;
+    background-color: #2016b9;
+    border: 1px solid #7c5b5b;
+    color: #ffff;
+    font-size: 10px;
+    border-radius: 30px;
+}
+  
+
+
+
+
+  
